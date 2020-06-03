@@ -1,12 +1,10 @@
 package com.senon.module_one;
 
 import android.os.Bundle;
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.view.View;
 
-import com.alibaba.android.arouter.facade.annotation.Route;
 import com.alibaba.android.arouter.launcher.ARouter;
-import com.senon.lib_common.ConstantArouter;
 import com.senon.lib_common.ConstantLoginArouter;
 import com.senon.lib_common.utils.StatusBarUtils;
 

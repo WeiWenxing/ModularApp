@@ -7,9 +7,9 @@ def daggerVersion = "2.8"
 
 project.ext {
     android = [
-            compileSdkVersion: 27,
-            minSdkVersion    : 19,
-            targetSdkVersion : 27,
+            compileSdkVersion: 28,
+            minSdkVersion    : 21,
+            targetSdkVersion : 28,
             versionCode      : 1,
             versionName      : "1.0"
     ]

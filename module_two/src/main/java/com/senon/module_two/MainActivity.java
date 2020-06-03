@@ -1,6 +1,6 @@
 package com.senon.module_two;
 
-import android.support.v7.app.AppCompatActivity;
+import androidx.appcompat.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.TextView;
 import com.alibaba.android.arouter.facade.annotation.Autowired;
